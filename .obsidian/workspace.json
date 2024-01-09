@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fc32f73ca53449e",
+        "id": "46040ef4449378e3",
         "type": "tabs",
         "children": [
           {
-            "id": "bf53fb9f6ece5b44",
+            "id": "12f45b8cfaf199b5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,33 +158,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf53fb9f6ece5b44",
+  "active": "12f45b8cfaf199b5",
   "lastOpenFiles": [
-    "Shared browser.md",
+    "Goals 2024.md",
+    "pininfo.md",
     "Life Manager App.md",
-    "Playtest Records.md",
-    "VR Magic Game.md",
-    "Progression Makes Player Weaker.md",
-    "FPS Osu.md",
-    "Chimera Roguelike PVP.md",
-    "AI Fully Procedural Game.md",
-    "Action Pokemon.md",
-    "Train Racing on Ice.md",
-    "Fishing Simulator.md",
-    "Roguelike deckbuilder racing.md",
-    "Living Gun.md",
-    "Hoverboards.md",
-    "Arcane Air Force.md",
-    "Roguelike Race.md",
-    "Negative Levels.md",
-    "Evolving Enemies.md",
-    "Elemental Combat Mechanics.md",
-    "Building System.md",
     "VR Monster Hunter.md",
+    "VR Magic Game.md",
+    "Train Racing on Ice.md",
     "Streets of rogue 2 x Noita.md",
+    "Shared browser.md",
+    "Roguelike deckbuilder racing.md",
+    "Roguelike Race.md",
     "Roguelike Deck builder City builder.md",
     "Raise monsters & Create dungeons.md",
+    "Progression Makes Player Weaker.md",
     "Precision Platformer Roguelike.md",
-    "Pokemon but XCOM.md"
+    "Pokemon but XCOM.md",
+    "Playtest Records.md",
+    "Persistent World Roguelike.md",
+    "Negative Levels.md",
+    "Negative HP.md",
+    "Living Gun.md",
+    "Literally just poker.md",
+    "Hoverboards.md",
+    "Fishing Simulator.md",
+    "FPS Rhythm Game.md",
+    "FPS Osu.md",
+    "Evolving Enemies.md",
+    "Notes"
   ]
 }
