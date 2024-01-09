@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b34cdb46c2a13ed9",
+        "id": "7fc32f73ca53449e",
         "type": "tabs",
         "children": [
           {
-            "id": "5f48083d5c03776a",
+            "id": "bf53fb9f6ece5b44",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -60,12 +60,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "051cd09d25c36a4d",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 377.5
   },
   "right": {
     "id": "280855bbad01990a",
@@ -134,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,9 +158,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24156152643fc8f5",
+  "active": "bf53fb9f6ece5b44",
   "lastOpenFiles": [
-    "Test.md",
-    "Welcome.md"
+    "Shared browser.md",
+    "Life Manager App.md",
+    "Playtest Records.md",
+    "VR Magic Game.md",
+    "Progression Makes Player Weaker.md",
+    "FPS Osu.md",
+    "Chimera Roguelike PVP.md",
+    "AI Fully Procedural Game.md",
+    "Action Pokemon.md",
+    "Train Racing on Ice.md",
+    "Fishing Simulator.md",
+    "Roguelike deckbuilder racing.md",
+    "Living Gun.md",
+    "Hoverboards.md",
+    "Arcane Air Force.md",
+    "Roguelike Race.md",
+    "Negative Levels.md",
+    "Evolving Enemies.md",
+    "Elemental Combat Mechanics.md",
+    "Building System.md",
+    "VR Monster Hunter.md",
+    "Streets of rogue 2 x Noita.md",
+    "Roguelike Deck builder City builder.md",
+    "Raise monsters & Create dungeons.md",
+    "Precision Platformer Roguelike.md",
+    "Pokemon but XCOM.md"
   ]
 }
