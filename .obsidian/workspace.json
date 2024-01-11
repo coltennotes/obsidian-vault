@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "46040ef4449378e3",
+        "id": "1b8e3a837d9c3ef3",
         "type": "tabs",
         "children": [
           {
-            "id": "12f45b8cfaf199b5",
+            "id": "85c25c16af307783",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Goals 2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Game/Idea/Large-Scope",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,7 @@
             }
           },
           {
-            "id": "051cd09d25c36a4d",
+            "id": "9fbde0794d7f09b2",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Goals 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Goals 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Goals 2024.md"
+              }
             }
           },
           {
@@ -139,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -158,8 +166,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12f45b8cfaf199b5",
+  "active": "85c25c16af307783",
   "lastOpenFiles": [
+    "Roguelike Race.md",
+    "Persistent World Roguelike.md",
+    "Game Ideas.md",
+    "AI Fully Procedural Game.md",
     "Goals 2024.md",
     "pininfo.md",
     "Life Manager App.md",
@@ -169,14 +181,12 @@
     "Streets of rogue 2 x Noita.md",
     "Shared browser.md",
     "Roguelike deckbuilder racing.md",
-    "Roguelike Race.md",
     "Roguelike Deck builder City builder.md",
     "Raise monsters & Create dungeons.md",
     "Progression Makes Player Weaker.md",
     "Precision Platformer Roguelike.md",
     "Pokemon but XCOM.md",
     "Playtest Records.md",
-    "Persistent World Roguelike.md",
     "Negative Levels.md",
     "Negative HP.md",
     "Living Gun.md",
@@ -184,8 +194,6 @@
     "Hoverboards.md",
     "Fishing Simulator.md",
     "FPS Rhythm Game.md",
-    "FPS Osu.md",
-    "Evolving Enemies.md",
     "Notes"
   ]
 }

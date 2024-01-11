@@ -22,7 +22,7 @@
 - [ ] Apply for internship
 - [ ] Study 3 Songs \[ 0 / 3 ]
 - [ ] Make music outside
-- [ ] Register spring classes
+- [x] Register spring classes
 - [ ] PSX Blender/Godot environment
 - [ ] Contact / visit RI Parrot Rescue
 - [ ] Finish Minecraft storage system
@@ -30,18 +30,19 @@
 ### Pace
 Must complete on average 2 per month to stay on pace.
 
-| Month     | Goals |
-| --------- | ----- |
-| January   | 1/2   |
-| February  | 0/2   |
-| March     | 0/2   |
-| April     | 0/2   |
-| May       | 0/2   |
-| June      | 0/2   |
-| July      | 0/2   |
-| August    | 0/2   |
-| September | 0/2   |
-| October   | 0/2   |
-| November  | 0/2   |
-| December  | 0/2   |
-| Total     | 1/25   |
+| Month | Goals |
+| ---- | ---- |
+| January | 2/2 |
+| February | 0/2 |
+| March | 0/2 |
+| April | 0/2 |
+| May | 0/2 |
+| June | 0/2 |
+| July | 0/2 |
+| August | 0/2 |
+| September | 0/2 |
+| October | 0/2 |
+| November | 0/2 |
+| December | 0/2 |
+| Free Space | 0/1 |
+| Total | 2/25 |
